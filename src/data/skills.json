@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "ML",
+    "imageSrc": "skills/ml.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/c.png"
+  },
+  {
+  "title": "R",
+    "imageSrc": "skills/R.png"
+  },
+  {
+    "title": "MATLAB",
+    "imageSrc": "skills/matlab.png"
+  }
+  
+]

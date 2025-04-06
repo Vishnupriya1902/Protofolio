@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Gesture Recognition System of Cane",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a cane system for people that utilizes cloud and IoT to interpret gestures and provide accessible commands/actions.",
+    "skills": ["AWS", "Ardino", "ML"]
+    
+  },
+  {
+    "title": "Soldier Health Tracking System",
+    "imageSrc": "projects/project.png",
+    "description": "Designed a soldier monitoring system using embedded circuits and Arduino that utilizes real-time data to track health and location for enhanced safety and efficiency.",
+    "skills": ["C,ML"]
+  },
+  {
+    "title": "Crop Disease Detection using CNN",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a deep learning-based system using CNN to identify crop diseases early, helping prevent losses and improve agricultural productivity.",
+    "skills": ["ML"]
+  }
+]
